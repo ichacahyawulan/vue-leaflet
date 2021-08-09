@@ -7,7 +7,7 @@ See [reference](https://ruangkoding.medium.com/tutorial-vuejs-menampilkan-peta-d
 npm install
 ```
 
-## Install leaflet
+### Install leaflet
 ```
 npm install vue2-leaflet leaflet --save
 ```
